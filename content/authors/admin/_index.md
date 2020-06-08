@@ -1,12 +1,11 @@
 ---
-authors:
-- admin
+title: "Nino Gogadze"
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Art
+    institution: Stanford 
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -14,14 +13,14 @@ education:
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
+email: ''
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 organizations:
 - name: Stanford University
-  url: ""
+  url: ''
 role: Professor of Artificial Intelligence
 social:
 - icon: envelope
@@ -36,8 +35,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-superuser: true
-title: Nelson Bighetti
+superuser: yes
+authors: admin
 user_groups:
 - Researchers
 - Visitors
