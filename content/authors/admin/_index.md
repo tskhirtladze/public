@@ -4,15 +4,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Art
-    institution: Stanford 
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Master student - Psychology and Educational Sciences
+    institution: Ivane Javakhishvili Tbilisi State University
+    year: 2019
+  - course: BA in Sociology
+    institution: Ivane Javakhishvili Tbilisi State University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 email: ''
 interests:
 - Artificial Intelligence
